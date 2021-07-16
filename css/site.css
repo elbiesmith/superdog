@@ -45,3 +45,10 @@
    .table-text-size {
        font-size: 12px;
    }
+
+   .sticky-footer {
+       position: fixed;
+       left: 0;
+       bottom: 0;
+       width: 100%
+   }
